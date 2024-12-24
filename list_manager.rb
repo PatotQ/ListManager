@@ -1,6 +1,4 @@
 # Simple List Manager in Ruby
-
-# Initialize the lists
 lists = {}
 
 def show_main_menu
